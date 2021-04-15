@@ -2,8 +2,8 @@
     "id": 1,
     "first_name": "Nicole",
     "last_name": "Mannu",
-    "email": "jpenddreth0@census.gov",
-    "gender": "Female",
+    "email": "jpenddreth0@census.gav",
+    "gender": "female",
     "ip_address": "26.58.193.2"
   }, {
     "id": 2,
@@ -26,5 +26,12 @@
     "email": "wvalek3@vk.com",
     "gender": "Male",
     "ip_address": "67.76.188.26"
+  }, {
+    "id": 5,
+    "first_name": "Markus",
+    "last_name": "Knipsi",
+    "email": "mk@hey.com",
+    "gender": "male",
+    "ip_address": "127.0.0.1"
   }]
   
